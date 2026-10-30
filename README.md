@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [akshatportfolio0789.netlify.app](akshatportfolio0789.netlify.app)
 
-- 📫 How to reach me **akshatkumargupta832@gmail.com**
+- 📫 How to reach me **akshatkumargupta3144@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
