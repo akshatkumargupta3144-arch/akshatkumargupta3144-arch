@@ -1,4 +1,4 @@
-<img width="680" height="428" alt="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70" src="https://github.com/user-attachments/assets/d161a57c-1ace-44dc-8a32-bccd2c21836c" /><h1 align="center">Hi 👋, I'm Akshat Kumar Gupta</h1>
+<h1 align="center">Hi 👋, I'm Akshat Kumar Gupta</h1>
 <h3 align="center">A passionate AI & ML student from India, aspiring to build intelligent solutions with AI and Machine Learning 🚀</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
